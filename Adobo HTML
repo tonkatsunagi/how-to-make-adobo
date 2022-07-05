@@ -1,0 +1,38 @@
+
+<body>
+    <h> How to make Spicy, Garlicky Adobo </h>
+      <div id="introduction" >
+        <h1> What is Adobo? </h1>
+        <img src="https://www.kawalingpinoy.com/pork-adobo/comment-page-1/" />
+          <p> <strong> Philippine adobo </strong> is a popular <em> Filipino </em> dish and cooking process
+            in <em> Philippine cuisine </em> that involves meat, seafood, or vegetables
+            marinated in vinegar, soy sauce, garlic, bay leaves, and black peppercorns,
+            which is browned in oil, and simmered in the marinade.</p>
+      <div id="Ingredients" >
+        <h2> Ingredients: </h2>
+        <ul>
+          <li> 1 kilogram of pork cubes </li>
+          <li> 2 heads of garlic, minced </li>
+          <li> 1 red onion, diced </li>
+          <li> 5 green chilies, finely chopped </li>
+          <li> 3 red chilies, finely chopped </li>
+          <li> 1/2 kilogram of <em> calamansi</em>, juiced </li>
+          <li> 4 potatoes, peeled and cubed </li>
+          <li> 2 tbsp. oil </li>
+          <li> 1/4 cup soy sauce </li>
+          <li> 1/4 cup vinegar </li>
+          <li> 1/2 cup water </li>
+          <li> salt and pepper, to taste </li>
+          </ul>
+      <div id="steps" >
+        <h3> Procedure: </h3>
+          <ol>
+            <li> In a bowl, combine pork, onions, garlic, bay leaves, salt, and pepper. Place in the refrigerator and marinate for about 30 minutes.
+            <li> In a wide, heavy-bottomed skillet over medium heat, heat oil. Add meat mixture and cook, turning occasionally, until pork is lightly browned.
+            <li> Add vinegar and allow to boil, uncovered and without stirring, for about 3 to 5 minutes.
+            <li> Add soy sauce and water and stir to combine. Allow to a boil for another 3 to 5 minutes.
+            <li> Lower heat, cover, and simmer for about 40 to 50 minutes or until meat is fork-tender and sauce is reduced. Serve hot.
+          </ol>
+      <div id="video" >
+        <video src="https://www.youtube.com/watch?v=tu5NfyWwWSY&t=2s" width="480" height="270" controls> Could not play video
+</body>
