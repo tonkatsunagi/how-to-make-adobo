@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Registration Form</title>
+    <link rel="stylesheet" href="styles.css"/>
+  </head>
+  <body>
+    <h1>Registration Form</h1>
+    <p>Please fill out this form with the required information.</p>
+    <form action="https://register-demo.freecodecamp.org">
+      <fieldset>
+        <label>First Name: <input name="first-name" text="type" required/></label>
+        <label>Last Name: <input name="last-name" text="type" required/></label>
+        <label>Email Address: <input name="email" type="email" required/></label>
+        <label>Password: <input name="password" type="password" pattern="[a-z0-5]{8,}" required /></label>
+      </fieldset>
+      <label><input class="inline" name="account-type" type="radio" /> Student's Account</label>
+       <label><input class="inline" name="account-type" type="radio" /> Teacher's Account</label>
+       <label><input class="inline" name="t-a" type="checkbox" required /> I accept the
+         <a href="https://www.freecodecamp.org/news/terms-of-service/">terms and conditions</a>.</label>
+      <fieldset>
+        <label> Upload a profile picture: <input name="profile-pic" type="file"/></label>
+        <label> Input your age (years): <input name="age" type="number" min="3" max="99"/></label>
+        <label> What grade are you enrolling in?
+         <select name="referrer">
+           <option value="">(select one)</option>
+           <option value="1">Toddler 2</option>
+           <option value="2">Kinder</option>
+           <option value="3">Grade 1</option>
+           <option value="4">Grade 2</option>
+           <option value="4">Grade 3</option>
+           <option value="4">Grade 4</option>
+           <option value="4">Grade 5</option>
+           <option value="4">Grade 6</option>
+           <option value="4">Grade 7</option>
+           <option value="4">Grade 8</option>
+           <option value="4">Grade 9</option>
+           <option value="4">Grade 10</option>
+         </select>
+       </label>
+       <label>Tell us about yourself:
+          <textarea name="introduction" rows="3" cols="46" placeholder="I like coding on the beach..."></textarea>
+        </label>
+      </fieldset>
+      <fieldset>
+        <input type="submit" value="Submit"/>
+      </fieldset>
+  </body>
+</html>
